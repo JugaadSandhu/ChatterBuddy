@@ -29,3 +29,7 @@ To run ChatterBuddy on your local machine, follow these steps:
 python app.py
 
 4. **Chat with ChatterBuddy:** Interact with ChatterBuddy using the chat interface and enjoy its features!
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve ChatterBuddy.
