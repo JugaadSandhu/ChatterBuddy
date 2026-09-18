@@ -16,6 +16,10 @@ ChatterBuddy comes with a range of features to make your life easier:
 
 - **Weather Information**: Get real-time weather updates for your location or any other location you specify.
 
+## Requirements
+
+Make sure you have Python 3.x installed on your system before running ChatterBuddy.
+
 ## Getting Started
 
 To run ChatterBuddy on your local machine, follow these steps:
