@@ -2,6 +2,8 @@
 
 ChatterBuddy is a Python-based chatbot application designed to assist users with various tasks such as creating grocery lists, setting alarms, handling Google searches, managing contact lists, and providing weather information. This versatile chatbot is your virtual assistant for everyday tasks.
 
+Built with simplicity and ease of use in mind, ChatterBuddy makes it easy to get things done through natural conversation.
+
 ## Features
 
 ChatterBuddy comes with a range of features to make your life easier:
