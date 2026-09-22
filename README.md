@@ -27,15 +27,40 @@ Make sure you have Python 3.x installed on your system before running ChatterBud
 To run ChatterBuddy on your local machine, follow these steps:
 
 1. **Clone the Repository**: Clone or download the ChatterBuddy repository to your local machine.
+   ```bash
+   git clone https://github.com/JugaadSandhu/ChatterBuddy.git
+   ```
 
 2. **Navigate to the Directory**: Open a terminal or command prompt and navigate to the ChatterBuddy directory.
+   ```bash
+   cd ChatterBuddy
+   ```
 
-3 **Run the Application:** Start the ChatterBuddy application by running app.py:
+3. **Run the Application**: Start the ChatterBuddy application by running app.py:
+   ```bash
+   python app.py
+   ```
 
-python app.py
+4. **Chat with ChatterBuddy**: Interact with ChatterBuddy using the chat interface and enjoy its features!
 
-4. **Chat with ChatterBuddy:** Interact with ChatterBuddy using the chat interface and enjoy its features!
+## Usage Examples
+
+Here are some example commands you can try with ChatterBuddy:
+
+- "Add milk to my grocery list"
+- "Set an alarm for 7 AM"
+- "Search for Python tutorials"
+- "What's the weather like today?"
+- "Add John Doe to my contacts"
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve ChatterBuddy.
+
+## License
+
+This project is open source and available for educational and personal use.
+
+## Contact
+
+For questions or feedback, please open an issue on GitHub.
